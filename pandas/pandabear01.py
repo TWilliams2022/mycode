@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Alta3 Research | RZFeeser@alta3.com
-   Exploring using pandas to create dataframes, and output graphs"""
+   Exploring using  pandas to create dataframes, and output graphs"""
 
 import pandas as pd
 
