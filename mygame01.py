@@ -43,6 +43,17 @@ rooms = {
                   'north' : 'Hall',
                   'item'  : 'monster',
                 },
+            'Bathroom' : { #added restroom
+                'south east' : 'Bathroom',
+                'item' : 'Weapon'
+                },
+            'Gaming Room' : { #added gaming room
+                'item' : 'potion',
+                },
+           'Steam Room' : { #added steam room
+               'north' : 'Gaming Room',
+               'item' : 'Monster',
+                },
             'Dining Room' : {
                   'west' : 'Hall',
                   'south': 'Garden',
