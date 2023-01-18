@@ -2,7 +2,7 @@
 
 import requests
 
-NASAAPI = "https://api.nasa.gov/planetary/apod?"
+NASAAPI = "https://api.nasa.gov/planetary/apod?api_key=Ji1yBHod3K64VlbtEIF97gWCgITuznnfEt9eHHSB"
 
 # this function grabs our credentials
 def returncreds():
